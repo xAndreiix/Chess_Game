@@ -45,7 +45,4 @@ python chess_game.py
 ## 🛡 Git Integration
 This project includes a full .gitignore to avoid cluttering the repository with unnecessary files like __pycache__, .venv/, editor configs, OS metadata, and test caches.
 
-## 📄 License
-This project is free to use and modify.
-
 Enjoy playing chess in Python with a beautiful minimal GUI. ♟
