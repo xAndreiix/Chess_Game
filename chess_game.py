@@ -42,7 +42,7 @@ class ChessGUI:
         self.update_highlight()
 
     def select_square(self, row, col):
-        index = chess.square(col, 7 - row)  # Flip vertically
+        index = chess.square(col, 7 - row)
         if self.selected_square is None:
             if self.board.piece_at(index) and self.board.turn == self.board.piece_at(index).color:
                 self.selected_square = index
