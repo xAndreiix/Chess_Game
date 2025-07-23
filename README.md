@@ -22,6 +22,7 @@ A complete GUI-based chess game implemented in Python using `tkinter` and the po
 ## 🧪 Testing
 
 Testing is implemented using the `unittest` module. To run tests:
+```bash``` python -m unittest test_chess_game.py
 
 ```bash```
 python test_chess_game.py
