@@ -47,3 +47,10 @@ python chess_game.py
 This project includes a full .gitignore to avoid cluttering the repository with unnecessary files like __pycache__, .venv/, editor configs, OS metadata, and test caches.
 
 Enjoy playing chess in Python with a beautiful minimal GUI. ♟
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## ✍️ Author
+- Andrei Iliescu
+- Built with focus on clean UI and functional design.
